@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+.cards:hover{
+  scale: 1.01;
+  rotate: 0.5deg;
+  transition: all 0.3s !important;
+}
